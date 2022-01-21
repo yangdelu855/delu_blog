@@ -4,7 +4,7 @@
 
 # Site
 title: Steven's Blog
-subtitle: '某程序员🐑'
+subtitle: '某程序员🐑 的Blog'
 description: '分享技术，分享生活'
 keywords: 'NLP,吸猫'
 author: Steven Yang
@@ -104,3 +104,8 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+aplayer:
+  meting: true
+  asset_inject: false
