@@ -1,6 +1,8 @@
 ---
 title: Steven's Blog Done!
 cover: https://s2.loli.net/2022/01/21/Aivna1o8mVYOhHT.png
+tags: 随手记
+
 ---
 欢迎来到Steven的博客！
 
