@@ -20,11 +20,11 @@ Query Understanding, Search Ranking.
 Learning Improved Semantic Representations with Tree-Structured LSTM for Hashtag Recommendation: An Experimental Study 
 </a>
 </div>
-<h2 style="font-size:14px; "> 
+<div style="font-size:14px; "> 
 Rui Zhu†, Delu Yang† and Yang Li*
-</h2>
 </div>
-
+</div>
+<div>-</div>
 <div>
 <kbd background-color=red><strong>Jestr 2019</strong></kbd> 
 <kbd><strong>Hashtag Recommendation</strong></kbd>
@@ -34,9 +34,9 @@ Rui Zhu†, Delu Yang† and Yang Li*
 Self-Attentive Neural Network for Hashtag Recommendation 
 </a>
 </div>
-<h2 style="font-size:14px; "> 
+<div style="font-size:14px; "> 
 Delu Yang, Rui Zhu and Yang Li*
-</h2>
+</div>
 </div>
 
 
