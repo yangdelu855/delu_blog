@@ -1,4 +1,9 @@
-搜索常见指标
+---
+title: 搜索常见指标
+cover: https://s2.loli.net/2022/01/23/9u7csxnLMfHOE4j.png
+tags: 搜索相关
+categories: 搜索
+---
 
 ## Precision@K
 + 指检索得到的文档中相关文档所占的比例。
